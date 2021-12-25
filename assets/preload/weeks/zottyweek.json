@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Runner",
+			"grey",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "labyrinth",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Silly Willy's Twistted Labyrinth or Tunnel Runnel (Zotty Week)",
+	"weekName": "zotty week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
