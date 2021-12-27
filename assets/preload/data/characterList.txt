@@ -3,6 +3,7 @@ dad
 gf
 spooky
 pico
+pico-player
 mom
 mom-car
 bf-car
@@ -13,9 +14,9 @@ bf-christmas
 gf-christmas
 monster
 bf-pixel
+bf-pixel-opponent
 gf-pixel
 senpai
 senpai-angry
 spirit
-bf-pixel-opponent
-pico-player
+grey
