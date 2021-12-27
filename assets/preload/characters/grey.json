@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Grey Sings Left"
+		},
+		{
+			"offsets": [
+				-9,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Grey Sings Down"
+		},
+		{
+			"offsets": [
+				-9,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Grey Sings Up"
+		},
+		{
+			"offsets": [
+				-9,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Grey Sings Right"
+		},
+		{
+			"offsets": [
+				-9,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Grey Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/grey_zot_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "grey",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
