@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grey_zot_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Grey Sings Down0000" x="1163" y="45" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Down0001" x="5" y="580" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Idle Dance0000" x="624" y="5" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Idle Dance0001" x="85" y="5" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Left0000" x="544" y="580" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Left0001" x="1083" y="580" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Right0000" x="5" y="1115" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Right0001" x="544" y="1115" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Up0000" x="1083" y="1115" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	<SubTexture name="Grey Sings Up0001" x="1702" y="5" width="529" height="525" frameX="0" frameY="-40" frameWidth="498" frameHeight="685" />
+	</TextureAtlas>
