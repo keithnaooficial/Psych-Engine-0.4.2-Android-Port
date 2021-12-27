@@ -4,9 +4,9 @@
 			"Runner",
 			"grey",
 			[
-				146,
-				113,
-				253
+				120,
+				120,
+				120
 			]
 		]
 	],
@@ -18,13 +18,13 @@
 		"gf"
 	],
 	"storyName": "Silly Willy's Twistted Labyrinth or Tunnel Runnel (Zotty Week)",
-	"weekName": "zotty week",
+	"weekName": "zottyweek",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		120,
+		120,
+		120
 	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
+	"weekBefore": "week6",
 	"startUnlocked": true
 }
