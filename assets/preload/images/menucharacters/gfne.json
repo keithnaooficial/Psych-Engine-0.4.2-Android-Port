@@ -1,0 +1,11 @@
+{
+	
+	"image": "M_gfne",
+	"position": [
+		0,
+		-25
+	],
+	"scale": 1,
+	"idle_anim": "gfne Idle",
+	"confirm_anim": "gfne Idle"
+}
