@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KnucklesEXE.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knux Down0000" x="3373" y="0" width="443" height="358" frameX="50" frameY="-74" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0001" x="3373" y="0" width="443" height="358" frameX="50" frameY="-74" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0002" x="0" y="468" width="433" height="360" frameX="44" frameY="-72" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0003" x="0" y="468" width="433" height="360" frameX="44" frameY="-72" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0004" x="433" y="468" width="427" height="361" frameX="40" frameY="-71" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0005" x="433" y="468" width="427" height="361" frameX="40" frameY="-71" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0006" x="860" y="468" width="424" height="362" frameX="38" frameY="-70" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0007" x="860" y="468" width="424" height="362" frameX="38" frameY="-70" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0008" x="1284" y="468" width="425" height="362" frameX="39" frameY="-70" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Down0009" x="1284" y="468" width="425" height="362" frameX="39" frameY="-70" frameWidth="443" frameHeight="362"/>
+	<SubTexture name="Knux Idle0000" x="1709" y="468" width="353" height="452" frameX="14" frameY="-71" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0001" x="2062" y="468" width="379" height="451" frameX="37" frameY="-72" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0002" x="2441" y="468" width="405" height="449" frameX="60" frameY="-74" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0003" x="2846" y="468" width="371" height="449" frameX="30" frameY="-74" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0004" x="3217" y="468" width="337" height="450" frameX="-0" frameY="-73" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0005" x="3554" y="468" width="337" height="449" frameX="-1" frameY="-74" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0006" x="0" y="920" width="338" height="449" frameX="-1" frameY="-74" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0007" x="338" y="920" width="338" height="450" frameX="-1" frameY="-73" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0008" x="676" y="920" width="338" height="451" frameX="-1" frameY="-72" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0009" x="1014" y="920" width="338" height="451" frameX="-1" frameY="-72" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0010" x="1352" y="920" width="338" height="452" frameX="-1" frameY="-71" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0011" x="1690" y="920" width="338" height="453" frameX="-1" frameY="-70" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0012" x="1690" y="920" width="338" height="453" frameX="-1" frameY="-70" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0013" x="1690" y="920" width="338" height="453" frameX="-1" frameY="-70" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Idle0014" x="1690" y="920" width="338" height="453" frameX="-1" frameY="-70" frameWidth="405" frameHeight="453"/>
+	<SubTexture name="Knux Left0000" x="0" y="0" width="373" height="468" frameX="-43" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0001" x="373" y="0" width="373" height="468" frameX="-44" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0002" x="746" y="0" width="372" height="468" frameX="-45" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0003" x="1118" y="0" width="379" height="468" frameX="-37" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0004" x="1497" y="0" width="384" height="468" frameX="-30" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0005" x="1881" y="0" width="382" height="468" frameX="-31" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0006" x="2263" y="0" width="380" height="468" frameX="-32" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0007" x="2643" y="0" width="371" height="468" frameX="-42" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0008" x="3014" y="0" width="359" height="468" frameX="-54" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Left0009" x="3014" y="0" width="359" height="468" frameX="-54" frameY="0" frameWidth="387" frameHeight="468"/>
+	<SubTexture name="Knux Right0000" x="2028" y="920" width="415" height="472" frameX="140" frameY="0" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0001" x="2443" y="920" width="414" height="472" frameX="140" frameY="0" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0002" x="2857" y="920" width="412" height="472" frameX="139" frameY="0" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0003" x="3269" y="920" width="404" height="472" frameX="132" frameY="0" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0004" x="3673" y="920" width="397" height="471" frameX="125" frameY="-1" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0005" x="0" y="1392" width="384" height="470" frameX="111" frameY="-2" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0006" x="384" y="1392" width="371" height="468" frameX="96" frameY="-4" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0007" x="755" y="1392" width="366" height="468" frameX="90" frameY="-4" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0008" x="1121" y="1392" width="362" height="468" frameX="84" frameY="-4" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Right0009" x="1121" y="1392" width="362" height="468" frameX="84" frameY="-4" frameWidth="418" frameHeight="472"/>
+	<SubTexture name="Knux Up0000" x="1483" y="1392" width="296" height="521" frameX="42" frameY="-50" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0001" x="1483" y="1392" width="296" height="521" frameX="42" frameY="-50" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0002" x="1779" y="1392" width="305" height="510" frameX="46" frameY="-61" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0003" x="1779" y="1392" width="305" height="510" frameX="46" frameY="-61" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0004" x="2084" y="1392" width="310" height="504" frameX="48" frameY="-67" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0005" x="2084" y="1392" width="310" height="504" frameX="48" frameY="-67" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0006" x="2394" y="1392" width="312" height="501" frameX="49" frameY="-69" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0007" x="2394" y="1392" width="312" height="501" frameX="49" frameY="-69" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0008" x="2706" y="1392" width="313" height="502" frameX="50" frameY="-69" frameWidth="313" frameHeight="521"/>
+	<SubTexture name="Knux Up0009" x="2706" y="1392" width="313" height="502" frameX="50" frameY="-69" frameWidth="313" frameHeight="521"/>
+</TextureAtlas>
