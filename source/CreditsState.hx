@@ -46,9 +46,12 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['ZottyWeek by'],
-			['Keith NAO oficial',		    'keithnaooficial',		    'Main Coder of The ZottyWeek',	 'https://youtube.com/channel/UCrMNx7pw7vGoQlEzeYQb2Pg',	'0xFFC30085'],
-			['Geometry Icont',		    'geometry',		    'Main Drawer of The Sprites',	 'https://youtube.com/channel/UCZF_NjzRuKOXlOFh0KZmq0w',	'0xFFC30085'],
+			['Triple Trouble FNF CAST by'],
+			['Crashy Boy',		    'crashyboi',		    'Main Compositor of Triple Trouble FNF CAST',	 'https://youtube.com/channel/UC0qPL9pz-DV-HV-FSnzMGNA',	'0xFFC30085'],
+			['RICHILIX',		    'richilix',		    'Main Animator of The Sprites',	 'https://youtube.com/c/RICHILIX_LOL',	'0xFFC30085'],
+			['PsychEngine Port (Android) by'],
+			['Keith NAO oficial',		    'keithnaooficial',		    'Main Coder of The Source',	 'https://youtube.com/channel/UCrMNx7pw7vGoQlEzeYQb2Pg',	'0xFFC30085'],
+			['Geometry Icont',		    'geometry',		    'Main Coder of The Port',	 'https://youtube.com/channel/UCZF_NjzRuKOXlOFh0KZmq0w',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
